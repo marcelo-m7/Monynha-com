@@ -70,6 +70,7 @@ const Blog = () => {
           slug: post.slug,
         })) || []
       );
+      
     },
   });
 
